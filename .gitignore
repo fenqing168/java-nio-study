@@ -8,7 +8,7 @@
 */*/target/
 */*/.settings/
 */*.stackdump
-# *.iml
+*.iml
 .metadata/
 .idea/gradle_extensions.xml
 .idea/libraries/Gradle__*.xml
