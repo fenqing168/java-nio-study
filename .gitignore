@@ -1,0 +1,19 @@
+*/target/
+*/logs/
+*/.settings/
+*/.classpath
+*/.project
+*/*.pid
+.DS_Store
+*/*/target/
+*/*/.settings/
+*/*.stackdump
+# *.iml
+.metadata/
+.idea/gradle_extensions.xml
+.idea/libraries/Gradle__*.xml
+.idea/shelf
+.idea/usage.statistics.xml
+*/.idea/
+/.idea/
+!.idea/iqis-cloud-backend.iml
